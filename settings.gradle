@@ -1,0 +1,1 @@
+include ':AIDLDemo', ':ClockViewDemo', ':TouchEventDemo', ':ShareElementAnimation'
